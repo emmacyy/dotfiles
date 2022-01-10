@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emmayauyau@gmail.com
+	name = Emma Cheng
